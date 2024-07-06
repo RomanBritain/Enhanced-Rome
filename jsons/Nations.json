@@ -22,7 +22,7 @@
                 "innerColor": [240, 199, 0],
                 "favoredReligion": "Christianity",
                 "uniqueName": "The Glory of Rome",
-                "uniques": ["[+1] Movement <for [All] units>","[+10]% Production"],
+                "uniques": ["[+1] Movement <for [All] units>", "[+100]% Yield from every [Great Improvement]",],
                 "cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
                         "Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
                         "Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
