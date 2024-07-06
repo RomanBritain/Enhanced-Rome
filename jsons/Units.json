@@ -29,5 +29,21 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}
+	},
+        {
+                "name": "Ballista",
+                "unitType": "Siege",
+                "replaces": "Catapult",
+                "uniqueTo": "Rome",
+                "movement": 2,
+                "strength": 8,
+                "rangedStrength": 10,
+                "cost": 75,
+                "requiredTech": "Mathematics",
+                "obsoleteTech": "Physics",
+                "upgradesTo": "Trebuchet",
+                "uniques": ["[+200]% Strength <vs cities> <when attacking>"],
+                "hurryCostModifier": 20,
+                "attackSound": "throw"
+        },
 ]
