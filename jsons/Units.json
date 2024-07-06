@@ -42,7 +42,7 @@
                 "requiredTech": "Mathematics",
                 "obsoleteTech": "Physics",
                 "upgradesTo": "Trebuchet",
-                "uniques": ["[+200]% Strength <vs cities> <when attacking>"],
+                "uniques": ["[+300]% Strength <vs cities> <when attacking>"],
                 "hurryCostModifier": 20,
                 "attackSound": "throw"
         },
