@@ -31,9 +31,9 @@
                 "science": 3,
                 "gold": 3,
                 "culture": 3,
-                "specialistSlots": {"Merchant": 1,"Artist": 1},
+                "specialistSlots": {"Merchant": 1, "Artist": 1, "Engineer": 1, "Scientist": 1},
                 "cityStrength": 2,
                 "cost": 1,
-                "uniques": ["Indicates the capital city", "[+100]% [Food] from City-States", "+2 Merchant slots"]
+                "uniques": ["Indicates the capital city", "+1 Merchant slot", "+1 Artist slot", "+1 Engineer slot", "+1 Scientist slot"]
         },
 ]
