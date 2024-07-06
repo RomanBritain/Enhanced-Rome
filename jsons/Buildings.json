@@ -31,6 +31,7 @@
                 "science": 3,
                 "gold": 3,
                 "culture": 3,
+                "happiness": 2,
                 "specialistSlots": {"Merchant": 1, "Artist": 1, "Engineer": 1, "Scientist": 1},
                 "cityStrength": 2,
                 "cost": 1,
