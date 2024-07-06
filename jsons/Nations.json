@@ -3,7 +3,7 @@
                 "name": "Rome",
                 "leaderName": "Augustus Caesar",
                 "adjective": ["Roman"],
-                "startBias":["Avoid [Tundra]","Avoid [Desert]"],
+                "startBias":["Hill"],
                 "preferredVictoryType": "Scientific",
                 "personality": "Augustus Caesar",
 
